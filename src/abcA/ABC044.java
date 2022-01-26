@@ -11,8 +11,8 @@ public class ABC044 {
         int x = scanner.nextInt();
         int y = scanner.nextInt();
 
-        int untilK = 0;   // Total price until K nights
-        int afterK = 0;   // Total price After Kth night
+        int untilK = 0;   // Total price until Kth night (K nights)
+        int afterK = 0;   // Total price after Kth night (rest)
 
         for (int i = 1; i <= n; i++) {
             if (i <= k) {
