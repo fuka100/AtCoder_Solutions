@@ -1,5 +1,22 @@
 package abcA;
 
+/*
+<<Problem Statement>>
+There are N children in AtCoder Kindergarten.
+Mr. Evi will arrange the children in a line, then give 1 candy to the first child in the line,
+2 candies to the second child, ..., N candies to the N-th child.
+How many candies will be necessary in total?
+
+<<Constraints>>
+1 ≦ N ≦ 100
+
+<<Input>>
+N
+
+<<Output>>
+Print the necessary number of candies in total.
+*/
+
 import java.util.Scanner;
 
 public class ABC043 {

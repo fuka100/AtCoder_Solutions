@@ -1,5 +1,20 @@
 package abcA;
 
+/*
+<<Problem Statement>>
+Given a lowercase English letter c, determine whether it is a vowel.
+Here, there are five vowels in the English alphabet: a, e, i, o and u.
+
+<<Constraints>>
+c is a lowercase English letter.
+
+<<Input>>
+c
+
+<<Output>>
+If c is a vowel, print vowel. Otherwise, print consonant.
+*/
+
 import java.util.Scanner;
 
 public class ABC049 {
