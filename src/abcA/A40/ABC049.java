@@ -1,4 +1,4 @@
-package abcA;
+package abcA.A40;
 
 /*
 <<Problem Statement>>
@@ -23,7 +23,7 @@ public class ABC049 {
 
         String letter = scanner.next();
 
-        if (letter.equals("a") ||
+        if (letter.equals("A40") ||
                 letter.equals("e") ||
                 letter.equals("i") ||
                 letter.equals("o") ||

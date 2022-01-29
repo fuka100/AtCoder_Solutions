@@ -1,4 +1,4 @@
-package abcA;
+package abcA.A40;
 
 /*
 <<Problem Statement>>
