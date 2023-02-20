@@ -23,7 +23,7 @@ public class ABC049 {
 
         String letter = scanner.next();
 
-        if (letter.equals("A40") ||
+        if (letter.equals("a") ||
                 letter.equals("e") ||
                 letter.equals("i") ||
                 letter.equals("o") ||
